@@ -2,9 +2,10 @@
 This repository is to connect shopify ecommerce with vuestorefront
 
 # How to start?
-1)Configure packages/theme/nuxt.config.js to establish the connection to your Shopify store.
+1) Configure packages/theme/nuxt.config.js to establish the connection to your Shopify store.
  *domain: 'yourdomain.myshopify.com',
  *storefrontAccessToken: 'your shopify store access token'
+ 
 
 2) Install all required dependencies:
 yarn install or yarn
