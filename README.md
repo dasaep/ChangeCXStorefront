@@ -1,4 +1,4 @@
-# VueStorefront-to-Shopify
+# ChangeCXStorefront - VueStorefront-to-Shopify
 This repository is to connect shopify ecommerce with vuestorefront
 
 # How to start?
