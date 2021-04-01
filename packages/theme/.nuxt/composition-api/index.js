@@ -442,7 +442,7 @@ const globalPlugin = (context) => {
   };
 };
 
-const staticPath = "C:/projects/dasa/VueStorefront-to-Shopify/packages/theme/.nuxt/static-json";
+const staticPath = "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/.nuxt/static-json";
 const staticCache = {};
 function writeFile(key, value) {
   if (process.client || !process.static)

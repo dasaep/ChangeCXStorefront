@@ -7,7 +7,7 @@ export const routesNameSeparator = "___"
 export const defaultLocaleRouteNameSuffix = "default"
 export const strategy = "prefix_except_default"
 export const lazy = true
-export const langDir = "C:\\projects\\dasa\\VueStorefront-to-Shopify\\packages\\theme\\lang"
+export const langDir = "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/lang"
 export const rootRedirect = null
 export const detectBrowserLanguage = {"useCookie":true,"cookieCrossOrigin":false,"cookieDomain":null,"cookieKey":"vsf-locale","cookieSecure":false,"alwaysRedirect":false,"fallbackLocale":"","onlyOnNoPrefix":false,"onlyOnRoot":false}
 export const differentDomains = false
@@ -36,6 +36,6 @@ export const localeCodes = ["en","de"]
 export const trailingSlash = undefined
 
 export const ASYNC_LOCALES = {
-  'en.js': () => import('../..\\lang\\en.js' /* webpackChunkName: "lang-en.js" */),
-  'de.js': () => import('../..\\lang\\de.js' /* webpackChunkName: "lang-de.js" */)
+  'en.js': () => import('../../lang/en.js' /* webpackChunkName: "lang-en.js" */),
+  'de.js': () => import('../../lang/de.js' /* webpackChunkName: "lang-de.js" */)
 }

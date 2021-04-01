@@ -4,33 +4,23 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _801a4b4e = () => interopDefault(import('..\\_theme\\pages\\Category.vue' /* webpackChunkName: "_theme/pages/Category" */))
-const _03433d51 = () => interopDefault(import('..\\_theme\\pages\\Checkout.vue' /* webpackChunkName: "" */))
-const _f1c9edca = () => interopDefault(import('..\\_theme\\pages\\Checkout\\OrderReview.vue' /* webpackChunkName: "" */))
-const _28536d4a = () => interopDefault(import('..\\_theme\\pages\\Checkout\\Payment.vue' /* webpackChunkName: "" */))
-const _3616cf92 = () => interopDefault(import('..\\_theme\\pages\\Checkout\\PersonalDetails.vue' /* webpackChunkName: "" */))
-const _d11badae = () => interopDefault(import('..\\_theme\\pages\\Checkout\\Shipping.vue' /* webpackChunkName: "" */))
-const _fe001660 = () => interopDefault(import('..\\_theme\\pages\\Checkout\\ThankYou.vue' /* webpackChunkName: "" */))
-const _048bf2be = () => interopDefault(import('..\\_theme\\pages\\Checkout.vue' /* webpackChunkName: "_theme/pages/Checkout" */))
-const _1efad6d5 = () => interopDefault(import('..\\_theme\\pages\\Checkout\\OrderReview.vue' /* webpackChunkName: "_theme/pages/Checkout/OrderReview" */))
-const _4833f7d6 = () => interopDefault(import('..\\_theme\\pages\\Checkout\\Payment.vue' /* webpackChunkName: "_theme/pages/Checkout/Payment" */))
-const _6f3a0e1e = () => interopDefault(import('..\\_theme\\pages\\Checkout\\PersonalDetails.vue' /* webpackChunkName: "_theme/pages/Checkout/PersonalDetails" */))
-const _ad4c74a2 = () => interopDefault(import('..\\_theme\\pages\\Checkout\\Shipping.vue' /* webpackChunkName: "_theme/pages/Checkout/Shipping" */))
-const _da30dd54 = () => interopDefault(import('..\\_theme\\pages\\Checkout\\ThankYou.vue' /* webpackChunkName: "_theme/pages/Checkout/ThankYou" */))
-const _333cbc2c = () => interopDefault(import('..\\_theme\\pages\\Home.vue' /* webpackChunkName: "" */))
-const _305cd98c = () => interopDefault(import('..\\_theme\\pages\\Home.vue' /* webpackChunkName: "_theme/pages/Home" */))
-const _16bdd8d4 = () => interopDefault(import('..\\_theme\\pages\\MyAccount.vue' /* webpackChunkName: "_theme/pages/MyAccount" */))
-const _7c0bfafd = () => interopDefault(import('..\\_theme\\pages\\MyAccount\\BillingDetails.vue' /* webpackChunkName: "_theme/pages/MyAccount/BillingDetails" */))
-const _6ac99030 = () => interopDefault(import('..\\_theme\\pages\\MyAccount\\LoyaltyCard.vue' /* webpackChunkName: "_theme/pages/MyAccount/LoyaltyCard" */))
-const _4a464bbb = () => interopDefault(import('..\\_theme\\pages\\MyAccount\\MyNewsletter.vue' /* webpackChunkName: "_theme/pages/MyAccount/MyNewsletter" */))
-const _365a5f17 = () => interopDefault(import('..\\_theme\\pages\\MyAccount\\MyProfile.vue' /* webpackChunkName: "_theme/pages/MyAccount/MyProfile" */))
-const _7ddd4089 = () => interopDefault(import('..\\_theme\\pages\\MyAccount\\MyReviews.vue' /* webpackChunkName: "_theme/pages/MyAccount/MyReviews" */))
-const _258b6d1c = () => interopDefault(import('..\\_theme\\pages\\MyAccount\\OrderHistory.vue' /* webpackChunkName: "_theme/pages/MyAccount/OrderHistory" */))
-const _95626724 = () => interopDefault(import('..\\_theme\\pages\\MyAccount\\ShippingDetails.vue' /* webpackChunkName: "_theme/pages/MyAccount/ShippingDetails" */))
-const _6522dc38 = () => interopDefault(import('..\\_theme\\pages\\Product.vue' /* webpackChunkName: "_theme/pages/Product" */))
-const _bf829a34 = () => interopDefault(import('..\\_theme\\pages\\MyAccount.vue' /* webpackChunkName: "" */))
-const _e8e87598 = () => interopDefault(import('..\\_theme\\pages\\Product.vue' /* webpackChunkName: "" */))
-const _7507ddee = () => interopDefault(import('..\\_theme\\pages\\Category.vue' /* webpackChunkName: "" */))
+const _9028075c = () => interopDefault(import('../_theme/pages/Category.vue' /* webpackChunkName: "_theme/pages/Category" */))
+const _1499aecc = () => interopDefault(import('../_theme/pages/Checkout.vue' /* webpackChunkName: "" */))
+const _2289629e = () => interopDefault(import('../_theme/pages/Checkout/OrderReview.vue' /* webpackChunkName: "" */))
+const _83166c1e = () => interopDefault(import('../_theme/pages/Checkout/Payment.vue' /* webpackChunkName: "" */))
+const _512c22cd = () => interopDefault(import('../_theme/pages/Checkout/PersonalDetails.vue' /* webpackChunkName: "" */))
+const _18a3bb53 = () => interopDefault(import('../_theme/pages/Checkout/Shipping.vue' /* webpackChunkName: "" */))
+const _023186fa = () => interopDefault(import('../_theme/pages/Checkout/ThankYou.vue' /* webpackChunkName: "" */))
+const _5e1499b3 = () => interopDefault(import('../_theme/pages/Home.vue' /* webpackChunkName: "" */))
+const _08679e86 = () => interopDefault(import('../_theme/pages/MyAccount.vue' /* webpackChunkName: "_theme/pages/MyAccount" */))
+const _b8e21fae = () => interopDefault(import('../_theme/pages/MyAccount/BillingDetails.vue' /* webpackChunkName: "_theme/pages/MyAccount/BillingDetails" */))
+const _50128a84 = () => interopDefault(import('../_theme/pages/MyAccount/LoyaltyCard.vue' /* webpackChunkName: "_theme/pages/MyAccount/LoyaltyCard" */))
+const _0e1c9be7 = () => interopDefault(import('../_theme/pages/MyAccount/MyNewsletter.vue' /* webpackChunkName: "_theme/pages/MyAccount/MyNewsletter" */))
+const _0ef4432a = () => interopDefault(import('../_theme/pages/MyAccount/MyProfile.vue' /* webpackChunkName: "_theme/pages/MyAccount/MyProfile" */))
+const _4008bfdd = () => interopDefault(import('../_theme/pages/MyAccount/MyReviews.vue' /* webpackChunkName: "_theme/pages/MyAccount/MyReviews" */))
+const _2d3c8570 = () => interopDefault(import('../_theme/pages/MyAccount/OrderHistory.vue' /* webpackChunkName: "_theme/pages/MyAccount/OrderHistory" */))
+const _7e2a7cc2 = () => interopDefault(import('../_theme/pages/MyAccount/ShippingDetails.vue' /* webpackChunkName: "_theme/pages/MyAccount/ShippingDetails" */))
+const _0f3ccccb = () => interopDefault(import('../_theme/pages/Product.vue' /* webpackChunkName: "_theme/pages/Product" */))
 
 const emptyFn = () => {}
 
@@ -45,225 +35,225 @@ export const routerOptions = {
 
   routes: [{
     path: "/Category",
-    component: _801a4b4e,
+    component: _9028075c,
     name: "Category___en"
   }, {
     path: "/checkout",
-    component: _03433d51,
+    component: _1499aecc,
     name: "checkout___en",
     children: [{
       path: "order-review",
-      component: _f1c9edca,
+      component: _2289629e,
       name: "order-review___en"
     }, {
       path: "payment",
-      component: _28536d4a,
+      component: _83166c1e,
       name: "payment___en"
     }, {
       path: "personal-details",
-      component: _3616cf92,
+      component: _512c22cd,
       name: "personal-details___en"
     }, {
       path: "shipping",
-      component: _d11badae,
+      component: _18a3bb53,
       name: "shipping___en"
     }, {
       path: "thank-you",
-      component: _fe001660,
+      component: _023186fa,
       name: "thank-you___en"
     }]
   }, {
     path: "/Checkout",
-    component: _048bf2be,
+    component: _1499aecc,
     name: "Checkout___en",
     children: [{
       path: "OrderReview",
-      component: _1efad6d5,
+      component: _2289629e,
       name: "Checkout-OrderReview___en"
     }, {
       path: "Payment",
-      component: _4833f7d6,
+      component: _83166c1e,
       name: "Checkout-Payment___en"
     }, {
       path: "PersonalDetails",
-      component: _6f3a0e1e,
+      component: _512c22cd,
       name: "Checkout-PersonalDetails___en"
     }, {
       path: "Shipping",
-      component: _ad4c74a2,
+      component: _18a3bb53,
       name: "Checkout-Shipping___en"
     }, {
       path: "ThankYou",
-      component: _da30dd54,
+      component: _023186fa,
       name: "Checkout-ThankYou___en"
     }]
   }, {
     path: "/de",
-    component: _333cbc2c,
+    component: _5e1499b3,
     name: "home___de"
   }, {
     path: "/Home",
-    component: _305cd98c,
+    component: _5e1499b3,
     name: "Home___en"
   }, {
     path: "/MyAccount",
-    component: _16bdd8d4,
+    component: _08679e86,
     name: "MyAccount___en",
     children: [{
       path: "BillingDetails",
-      component: _7c0bfafd,
+      component: _b8e21fae,
       name: "MyAccount-BillingDetails___en"
     }, {
       path: "LoyaltyCard",
-      component: _6ac99030,
+      component: _50128a84,
       name: "MyAccount-LoyaltyCard___en"
     }, {
       path: "MyNewsletter",
-      component: _4a464bbb,
+      component: _0e1c9be7,
       name: "MyAccount-MyNewsletter___en"
     }, {
       path: "MyProfile",
-      component: _365a5f17,
+      component: _0ef4432a,
       name: "MyAccount-MyProfile___en"
     }, {
       path: "MyReviews",
-      component: _7ddd4089,
+      component: _4008bfdd,
       name: "MyAccount-MyReviews___en"
     }, {
       path: "OrderHistory",
-      component: _258b6d1c,
+      component: _2d3c8570,
       name: "MyAccount-OrderHistory___en"
     }, {
       path: "ShippingDetails",
-      component: _95626724,
+      component: _7e2a7cc2,
       name: "MyAccount-ShippingDetails___en"
     }]
   }, {
     path: "/Product",
-    component: _6522dc38,
+    component: _0f3ccccb,
     name: "Product___en"
   }, {
     path: "/de/Category",
-    component: _801a4b4e,
+    component: _9028075c,
     name: "Category___de"
   }, {
     path: "/de/checkout",
-    component: _03433d51,
+    component: _1499aecc,
     name: "checkout___de",
     children: [{
       path: "order-review",
-      component: _f1c9edca,
+      component: _2289629e,
       name: "order-review___de"
     }, {
       path: "payment",
-      component: _28536d4a,
+      component: _83166c1e,
       name: "payment___de"
     }, {
       path: "personal-details",
-      component: _3616cf92,
+      component: _512c22cd,
       name: "personal-details___de"
     }, {
       path: "shipping",
-      component: _d11badae,
+      component: _18a3bb53,
       name: "shipping___de"
     }, {
       path: "thank-you",
-      component: _fe001660,
+      component: _023186fa,
       name: "thank-you___de"
     }]
   }, {
     path: "/de/Checkout",
-    component: _048bf2be,
+    component: _1499aecc,
     name: "Checkout___de",
     children: [{
       path: "OrderReview",
-      component: _1efad6d5,
+      component: _2289629e,
       name: "Checkout-OrderReview___de"
     }, {
       path: "Payment",
-      component: _4833f7d6,
+      component: _83166c1e,
       name: "Checkout-Payment___de"
     }, {
       path: "PersonalDetails",
-      component: _6f3a0e1e,
+      component: _512c22cd,
       name: "Checkout-PersonalDetails___de"
     }, {
       path: "Shipping",
-      component: _ad4c74a2,
+      component: _18a3bb53,
       name: "Checkout-Shipping___de"
     }, {
       path: "ThankYou",
-      component: _da30dd54,
+      component: _023186fa,
       name: "Checkout-ThankYou___de"
     }]
   }, {
     path: "/de/Home",
-    component: _305cd98c,
+    component: _5e1499b3,
     name: "Home___de"
   }, {
     path: "/de/MyAccount",
-    component: _16bdd8d4,
+    component: _08679e86,
     name: "MyAccount___de",
     children: [{
       path: "BillingDetails",
-      component: _7c0bfafd,
+      component: _b8e21fae,
       name: "MyAccount-BillingDetails___de"
     }, {
       path: "LoyaltyCard",
-      component: _6ac99030,
+      component: _50128a84,
       name: "MyAccount-LoyaltyCard___de"
     }, {
       path: "MyNewsletter",
-      component: _4a464bbb,
+      component: _0e1c9be7,
       name: "MyAccount-MyNewsletter___de"
     }, {
       path: "MyProfile",
-      component: _365a5f17,
+      component: _0ef4432a,
       name: "MyAccount-MyProfile___de"
     }, {
       path: "MyReviews",
-      component: _7ddd4089,
+      component: _4008bfdd,
       name: "MyAccount-MyReviews___de"
     }, {
       path: "OrderHistory",
-      component: _258b6d1c,
+      component: _2d3c8570,
       name: "MyAccount-OrderHistory___de"
     }, {
       path: "ShippingDetails",
-      component: _95626724,
+      component: _7e2a7cc2,
       name: "MyAccount-ShippingDetails___de"
     }]
   }, {
     path: "/de/Product",
-    component: _6522dc38,
+    component: _0f3ccccb,
     name: "Product___de"
   }, {
     path: "/de/my-account/:pageName?",
-    component: _bf829a34,
+    component: _08679e86,
     name: "my-account___de"
   }, {
     path: "/de/p/:id/:slug",
-    component: _e8e87598,
+    component: _0f3ccccb,
     name: "product___de"
   }, {
     path: "/de/c/:slug_1/:slug_2?/:slug_3?/:slug_4?/:slug_5?",
-    component: _7507ddee,
+    component: _9028075c,
     name: "category___de"
   }, {
     path: "/my-account/:pageName?",
-    component: _bf829a34,
+    component: _08679e86,
     name: "my-account___en"
   }, {
     path: "/p/:id/:slug",
-    component: _e8e87598,
+    component: _0f3ccccb,
     name: "product___en"
   }, {
     path: "/c/:slug_1/:slug_2?/:slug_3?/:slug_4?/:slug_5?",
-    component: _7507ddee,
+    component: _9028075c,
     name: "category___en"
   }, {
     path: "/",
-    component: _333cbc2c,
+    component: _5e1499b3,
     name: "home___en"
   }],
 

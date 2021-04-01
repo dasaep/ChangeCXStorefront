@@ -2,371 +2,371 @@
   {
     "name": "Category___en",
     "path": "/Category",
-    "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Category.vue",
+    "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Category.vue",
     "chunkName": "_theme/pages/Category",
-    "_name": "_801a4b4e"
+    "_name": "_9028075c"
   },
   {
     "name": "checkout___en",
     "path": "/checkout",
-    "component": "C:\\projects\\dasa\\VueStorefront-to-Shopify\\packages\\theme\\_theme\\pages\\Checkout.vue",
+    "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Checkout.vue",
     "children": [
       {
         "path": "order-review",
         "name": "order-review___en",
-        "component": "C:\\projects\\dasa\\VueStorefront-to-Shopify\\packages\\theme\\_theme\\pages\\Checkout\\OrderReview.vue",
-        "_name": "_f1c9edca"
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Checkout/OrderReview.vue",
+        "_name": "_2289629e"
       },
       {
         "path": "payment",
         "name": "payment___en",
-        "component": "C:\\projects\\dasa\\VueStorefront-to-Shopify\\packages\\theme\\_theme\\pages\\Checkout\\Payment.vue",
-        "_name": "_28536d4a"
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Checkout/Payment.vue",
+        "_name": "_83166c1e"
       },
       {
         "path": "personal-details",
         "name": "personal-details___en",
-        "component": "C:\\projects\\dasa\\VueStorefront-to-Shopify\\packages\\theme\\_theme\\pages\\Checkout\\PersonalDetails.vue",
-        "_name": "_3616cf92"
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Checkout/PersonalDetails.vue",
+        "_name": "_512c22cd"
       },
       {
         "path": "shipping",
         "name": "shipping___en",
-        "component": "C:\\projects\\dasa\\VueStorefront-to-Shopify\\packages\\theme\\_theme\\pages\\Checkout\\Shipping.vue",
-        "_name": "_d11badae"
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Checkout/Shipping.vue",
+        "_name": "_18a3bb53"
       },
       {
         "path": "thank-you",
         "name": "thank-you___en",
-        "component": "C:\\projects\\dasa\\VueStorefront-to-Shopify\\packages\\theme\\_theme\\pages\\Checkout\\ThankYou.vue",
-        "_name": "_fe001660"
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Checkout/ThankYou.vue",
+        "_name": "_023186fa"
       }
     ],
-    "_name": "_03433d51"
+    "_name": "_1499aecc"
   },
   {
     "name": "Checkout___en",
     "path": "/Checkout",
-    "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Checkout.vue",
+    "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Checkout.vue",
     "chunkName": "_theme/pages/Checkout",
     "children": [
       {
         "name": "Checkout-OrderReview___en",
         "path": "OrderReview",
-        "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Checkout\\\\OrderReview.vue",
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Checkout/OrderReview.vue",
         "chunkName": "_theme/pages/Checkout/OrderReview",
-        "_name": "_1efad6d5"
+        "_name": "_2289629e"
       },
       {
         "name": "Checkout-Payment___en",
         "path": "Payment",
-        "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Checkout\\\\Payment.vue",
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Checkout/Payment.vue",
         "chunkName": "_theme/pages/Checkout/Payment",
-        "_name": "_4833f7d6"
+        "_name": "_83166c1e"
       },
       {
         "name": "Checkout-PersonalDetails___en",
         "path": "PersonalDetails",
-        "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Checkout\\\\PersonalDetails.vue",
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Checkout/PersonalDetails.vue",
         "chunkName": "_theme/pages/Checkout/PersonalDetails",
-        "_name": "_6f3a0e1e"
+        "_name": "_512c22cd"
       },
       {
         "name": "Checkout-Shipping___en",
         "path": "Shipping",
-        "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Checkout\\\\Shipping.vue",
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Checkout/Shipping.vue",
         "chunkName": "_theme/pages/Checkout/Shipping",
-        "_name": "_ad4c74a2"
+        "_name": "_18a3bb53"
       },
       {
         "name": "Checkout-ThankYou___en",
         "path": "ThankYou",
-        "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Checkout\\\\ThankYou.vue",
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Checkout/ThankYou.vue",
         "chunkName": "_theme/pages/Checkout/ThankYou",
-        "_name": "_da30dd54"
+        "_name": "_023186fa"
       }
     ],
-    "_name": "_048bf2be"
+    "_name": "_1499aecc"
   },
   {
     "name": "home___de",
     "path": "/de",
-    "component": "C:\\projects\\dasa\\VueStorefront-to-Shopify\\packages\\theme\\_theme\\pages\\Home.vue",
-    "_name": "_333cbc2c"
+    "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Home.vue",
+    "_name": "_5e1499b3"
   },
   {
     "name": "Home___en",
     "path": "/Home",
-    "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Home.vue",
+    "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Home.vue",
     "chunkName": "_theme/pages/Home",
-    "_name": "_305cd98c"
+    "_name": "_5e1499b3"
   },
   {
     "name": "MyAccount___en",
     "path": "/MyAccount",
-    "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount.vue",
+    "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/MyAccount.vue",
     "chunkName": "_theme/pages/MyAccount",
     "children": [
       {
         "name": "MyAccount-BillingDetails___en",
         "path": "BillingDetails",
-        "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount\\\\BillingDetails.vue",
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/MyAccount/BillingDetails.vue",
         "chunkName": "_theme/pages/MyAccount/BillingDetails",
-        "_name": "_7c0bfafd"
+        "_name": "_b8e21fae"
       },
       {
         "name": "MyAccount-LoyaltyCard___en",
         "path": "LoyaltyCard",
-        "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount\\\\LoyaltyCard.vue",
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/MyAccount/LoyaltyCard.vue",
         "chunkName": "_theme/pages/MyAccount/LoyaltyCard",
-        "_name": "_6ac99030"
+        "_name": "_50128a84"
       },
       {
         "name": "MyAccount-MyNewsletter___en",
         "path": "MyNewsletter",
-        "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount\\\\MyNewsletter.vue",
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/MyAccount/MyNewsletter.vue",
         "chunkName": "_theme/pages/MyAccount/MyNewsletter",
-        "_name": "_4a464bbb"
+        "_name": "_0e1c9be7"
       },
       {
         "name": "MyAccount-MyProfile___en",
         "path": "MyProfile",
-        "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount\\\\MyProfile.vue",
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/MyAccount/MyProfile.vue",
         "chunkName": "_theme/pages/MyAccount/MyProfile",
-        "_name": "_365a5f17"
+        "_name": "_0ef4432a"
       },
       {
         "name": "MyAccount-MyReviews___en",
         "path": "MyReviews",
-        "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount\\\\MyReviews.vue",
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/MyAccount/MyReviews.vue",
         "chunkName": "_theme/pages/MyAccount/MyReviews",
-        "_name": "_7ddd4089"
+        "_name": "_4008bfdd"
       },
       {
         "name": "MyAccount-OrderHistory___en",
         "path": "OrderHistory",
-        "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount\\\\OrderHistory.vue",
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/MyAccount/OrderHistory.vue",
         "chunkName": "_theme/pages/MyAccount/OrderHistory",
-        "_name": "_258b6d1c"
+        "_name": "_2d3c8570"
       },
       {
         "name": "MyAccount-ShippingDetails___en",
         "path": "ShippingDetails",
-        "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount\\\\ShippingDetails.vue",
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/MyAccount/ShippingDetails.vue",
         "chunkName": "_theme/pages/MyAccount/ShippingDetails",
-        "_name": "_95626724"
+        "_name": "_7e2a7cc2"
       }
     ],
-    "_name": "_16bdd8d4"
+    "_name": "_08679e86"
   },
   {
     "name": "Product___en",
     "path": "/Product",
-    "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Product.vue",
+    "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Product.vue",
     "chunkName": "_theme/pages/Product",
-    "_name": "_6522dc38"
+    "_name": "_0f3ccccb"
   },
   {
     "name": "Category___de",
     "path": "/de/Category",
-    "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Category.vue",
+    "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Category.vue",
     "chunkName": "_theme/pages/Category",
-    "_name": "_801a4b4e"
+    "_name": "_9028075c"
   },
   {
     "name": "checkout___de",
     "path": "/de/checkout",
-    "component": "C:\\projects\\dasa\\VueStorefront-to-Shopify\\packages\\theme\\_theme\\pages\\Checkout.vue",
+    "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Checkout.vue",
     "children": [
       {
         "path": "order-review",
         "name": "order-review___de",
-        "component": "C:\\projects\\dasa\\VueStorefront-to-Shopify\\packages\\theme\\_theme\\pages\\Checkout\\OrderReview.vue",
-        "_name": "_f1c9edca"
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Checkout/OrderReview.vue",
+        "_name": "_2289629e"
       },
       {
         "path": "payment",
         "name": "payment___de",
-        "component": "C:\\projects\\dasa\\VueStorefront-to-Shopify\\packages\\theme\\_theme\\pages\\Checkout\\Payment.vue",
-        "_name": "_28536d4a"
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Checkout/Payment.vue",
+        "_name": "_83166c1e"
       },
       {
         "path": "personal-details",
         "name": "personal-details___de",
-        "component": "C:\\projects\\dasa\\VueStorefront-to-Shopify\\packages\\theme\\_theme\\pages\\Checkout\\PersonalDetails.vue",
-        "_name": "_3616cf92"
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Checkout/PersonalDetails.vue",
+        "_name": "_512c22cd"
       },
       {
         "path": "shipping",
         "name": "shipping___de",
-        "component": "C:\\projects\\dasa\\VueStorefront-to-Shopify\\packages\\theme\\_theme\\pages\\Checkout\\Shipping.vue",
-        "_name": "_d11badae"
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Checkout/Shipping.vue",
+        "_name": "_18a3bb53"
       },
       {
         "path": "thank-you",
         "name": "thank-you___de",
-        "component": "C:\\projects\\dasa\\VueStorefront-to-Shopify\\packages\\theme\\_theme\\pages\\Checkout\\ThankYou.vue",
-        "_name": "_fe001660"
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Checkout/ThankYou.vue",
+        "_name": "_023186fa"
       }
     ],
-    "_name": "_03433d51"
+    "_name": "_1499aecc"
   },
   {
     "name": "Checkout___de",
     "path": "/de/Checkout",
-    "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Checkout.vue",
+    "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Checkout.vue",
     "chunkName": "_theme/pages/Checkout",
     "children": [
       {
         "name": "Checkout-OrderReview___de",
         "path": "OrderReview",
-        "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Checkout\\\\OrderReview.vue",
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Checkout/OrderReview.vue",
         "chunkName": "_theme/pages/Checkout/OrderReview",
-        "_name": "_1efad6d5"
+        "_name": "_2289629e"
       },
       {
         "name": "Checkout-Payment___de",
         "path": "Payment",
-        "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Checkout\\\\Payment.vue",
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Checkout/Payment.vue",
         "chunkName": "_theme/pages/Checkout/Payment",
-        "_name": "_4833f7d6"
+        "_name": "_83166c1e"
       },
       {
         "name": "Checkout-PersonalDetails___de",
         "path": "PersonalDetails",
-        "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Checkout\\\\PersonalDetails.vue",
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Checkout/PersonalDetails.vue",
         "chunkName": "_theme/pages/Checkout/PersonalDetails",
-        "_name": "_6f3a0e1e"
+        "_name": "_512c22cd"
       },
       {
         "name": "Checkout-Shipping___de",
         "path": "Shipping",
-        "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Checkout\\\\Shipping.vue",
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Checkout/Shipping.vue",
         "chunkName": "_theme/pages/Checkout/Shipping",
-        "_name": "_ad4c74a2"
+        "_name": "_18a3bb53"
       },
       {
         "name": "Checkout-ThankYou___de",
         "path": "ThankYou",
-        "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Checkout\\\\ThankYou.vue",
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Checkout/ThankYou.vue",
         "chunkName": "_theme/pages/Checkout/ThankYou",
-        "_name": "_da30dd54"
+        "_name": "_023186fa"
       }
     ],
-    "_name": "_048bf2be"
+    "_name": "_1499aecc"
   },
   {
     "name": "Home___de",
     "path": "/de/Home",
-    "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Home.vue",
+    "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Home.vue",
     "chunkName": "_theme/pages/Home",
-    "_name": "_305cd98c"
+    "_name": "_5e1499b3"
   },
   {
     "name": "MyAccount___de",
     "path": "/de/MyAccount",
-    "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount.vue",
+    "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/MyAccount.vue",
     "chunkName": "_theme/pages/MyAccount",
     "children": [
       {
         "name": "MyAccount-BillingDetails___de",
         "path": "BillingDetails",
-        "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount\\\\BillingDetails.vue",
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/MyAccount/BillingDetails.vue",
         "chunkName": "_theme/pages/MyAccount/BillingDetails",
-        "_name": "_7c0bfafd"
+        "_name": "_b8e21fae"
       },
       {
         "name": "MyAccount-LoyaltyCard___de",
         "path": "LoyaltyCard",
-        "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount\\\\LoyaltyCard.vue",
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/MyAccount/LoyaltyCard.vue",
         "chunkName": "_theme/pages/MyAccount/LoyaltyCard",
-        "_name": "_6ac99030"
+        "_name": "_50128a84"
       },
       {
         "name": "MyAccount-MyNewsletter___de",
         "path": "MyNewsletter",
-        "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount\\\\MyNewsletter.vue",
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/MyAccount/MyNewsletter.vue",
         "chunkName": "_theme/pages/MyAccount/MyNewsletter",
-        "_name": "_4a464bbb"
+        "_name": "_0e1c9be7"
       },
       {
         "name": "MyAccount-MyProfile___de",
         "path": "MyProfile",
-        "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount\\\\MyProfile.vue",
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/MyAccount/MyProfile.vue",
         "chunkName": "_theme/pages/MyAccount/MyProfile",
-        "_name": "_365a5f17"
+        "_name": "_0ef4432a"
       },
       {
         "name": "MyAccount-MyReviews___de",
         "path": "MyReviews",
-        "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount\\\\MyReviews.vue",
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/MyAccount/MyReviews.vue",
         "chunkName": "_theme/pages/MyAccount/MyReviews",
-        "_name": "_7ddd4089"
+        "_name": "_4008bfdd"
       },
       {
         "name": "MyAccount-OrderHistory___de",
         "path": "OrderHistory",
-        "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount\\\\OrderHistory.vue",
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/MyAccount/OrderHistory.vue",
         "chunkName": "_theme/pages/MyAccount/OrderHistory",
-        "_name": "_258b6d1c"
+        "_name": "_2d3c8570"
       },
       {
         "name": "MyAccount-ShippingDetails___de",
         "path": "ShippingDetails",
-        "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount\\\\ShippingDetails.vue",
+        "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/MyAccount/ShippingDetails.vue",
         "chunkName": "_theme/pages/MyAccount/ShippingDetails",
-        "_name": "_95626724"
+        "_name": "_7e2a7cc2"
       }
     ],
-    "_name": "_16bdd8d4"
+    "_name": "_08679e86"
   },
   {
     "name": "Product___de",
     "path": "/de/Product",
-    "component": "C:\\\\projects\\\\dasa\\\\VueStorefront-to-Shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Product.vue",
+    "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Product.vue",
     "chunkName": "_theme/pages/Product",
-    "_name": "_6522dc38"
+    "_name": "_0f3ccccb"
   },
   {
     "name": "my-account___de",
     "path": "/de/my-account/:pageName?",
-    "component": "C:\\projects\\dasa\\VueStorefront-to-Shopify\\packages\\theme\\_theme\\pages\\MyAccount.vue",
-    "_name": "_bf829a34"
+    "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/MyAccount.vue",
+    "_name": "_08679e86"
   },
   {
     "name": "product___de",
     "path": "/de/p/:id/:slug",
-    "component": "C:\\projects\\dasa\\VueStorefront-to-Shopify\\packages\\theme\\_theme\\pages\\Product.vue",
-    "_name": "_e8e87598"
+    "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Product.vue",
+    "_name": "_0f3ccccb"
   },
   {
     "name": "category___de",
     "path": "/de/c/:slug_1/:slug_2?/:slug_3?/:slug_4?/:slug_5?",
-    "component": "C:\\projects\\dasa\\VueStorefront-to-Shopify\\packages\\theme\\_theme\\pages\\Category.vue",
-    "_name": "_7507ddee"
+    "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Category.vue",
+    "_name": "_9028075c"
   },
   {
     "name": "my-account___en",
     "path": "/my-account/:pageName?",
-    "component": "C:\\projects\\dasa\\VueStorefront-to-Shopify\\packages\\theme\\_theme\\pages\\MyAccount.vue",
-    "_name": "_bf829a34"
+    "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/MyAccount.vue",
+    "_name": "_08679e86"
   },
   {
     "name": "product___en",
     "path": "/p/:id/:slug",
-    "component": "C:\\projects\\dasa\\VueStorefront-to-Shopify\\packages\\theme\\_theme\\pages\\Product.vue",
-    "_name": "_e8e87598"
+    "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Product.vue",
+    "_name": "_0f3ccccb"
   },
   {
     "name": "category___en",
     "path": "/c/:slug_1/:slug_2?/:slug_3?/:slug_4?/:slug_5?",
-    "component": "C:\\projects\\dasa\\VueStorefront-to-Shopify\\packages\\theme\\_theme\\pages\\Category.vue",
-    "_name": "_7507ddee"
+    "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Category.vue",
+    "_name": "_9028075c"
   },
   {
     "name": "home___en",
     "path": "/",
-    "component": "C:\\projects\\dasa\\VueStorefront-to-Shopify\\packages\\theme\\_theme\\pages\\Home.vue",
-    "_name": "_333cbc2c"
+    "component": "/Users/dponnappan/Personals/ChangeCX/tech/apps/ChangeCXStorefront/packages/theme/_theme/pages/Home.vue",
+    "_name": "_5e1499b3"
   }
 ]
