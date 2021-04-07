@@ -1,0 +1,17 @@
+{
+  "projectName": "ChangeCXStorefront",
+  "version": "3.1",
+  "frontend": "javascript",
+  "javascript": {
+    "framework": "vue",
+    "config": {
+      "SourceDir": "packages",
+      "DistributionDir": "dist",
+      "BuildCommand": "yarn run build",
+      "StartCommand": "yarn dev"
+    }
+  },
+  "providers": [
+    "awscloudformation"
+  ]
+}
