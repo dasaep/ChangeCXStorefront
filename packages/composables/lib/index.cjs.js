@@ -214,7 +214,6 @@ var params = {
     }
 };
 var index = core.useCartFactory(params);
-//# sourceMappingURL=index.js.map
 
 var params$1 = {
     categorySearch: function (context, params) { return __awaiter(void 0, void 0, void 0, function () {
@@ -230,7 +229,6 @@ var params$1 = {
     }); }
 };
 var index$1 = core.useCategoryFactory(params$1);
-//# sourceMappingURL=index.js.map
 
 /* istanbul ignore file */
 var PAYMENT_METHODS_MOCK = [
@@ -279,11 +277,9 @@ var useCheckout = function () {
         loading: compositionApi.computed(function () { return false; })
     };
 };
-//# sourceMappingURL=index.js.map
 
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 function useContent() { }
-//# sourceMappingURL=index.js.map
 
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 var enhanceProduct = function (productResponse) {
@@ -293,7 +289,6 @@ var enhanceProduct = function (productResponse) {
         }, available: product.variants[0].available, productType: product.productType, options: product.options, _id: product.id, variantId: product.variants[0].id, _description: product.description, _descriptionHtml: product.descriptionHtml, _categoriesRef: [], _slug: product.handle, _coverImage: product === null || product === void 0 ? void 0 : product.images[0], _mainPrice: product.variants[0].price })); });
     return enhancedProductResponse;
 };
-//# sourceMappingURL=enhanceProduct.js.map
 
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 var enhanceProductVariation = function (productResponse) {
@@ -317,7 +312,6 @@ var enhanceProductVariation = function (productResponse) {
     }); });
     return enhancedProductResponse;
 };
-//# sourceMappingURL=enhanceProductVariation.js.map
 
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 var getSortedProducts = function (productResponse, sortBy) {
@@ -337,7 +331,6 @@ var getSortedProducts = function (productResponse, sortBy) {
         return (((x < y) ? -1 : ((x > y) ? 1 : 0)));
     });
 };
-//# sourceMappingURL=sortProducts.js.map
 
 // TODO: move to the config file
 var ITEMS_PER_PAGE = [20, 40, 100];
@@ -378,7 +371,6 @@ var factoryParams = {
     }); }
 };
 var index$2 = core.useFacetFactory(factoryParams);
-//# sourceMappingURL=index.js.map
 
 var params$2 = {
     productsSearch: function (context, params) { return __awaiter(void 0, void 0, void 0, function () {
@@ -394,7 +386,6 @@ var params$2 = {
     }); }
 };
 var index$3 = core.useProductFactory(params$2);
-//# sourceMappingURL=index.js.map
 
 var params$3 = {
     // eslint-disable-next-line @typescript-eslint/no-unused-vars
@@ -413,7 +404,6 @@ var params$3 = {
     }); }
 };
 var index$4 = core.useReviewFactory(params$3);
-//# sourceMappingURL=index.js.map
 
 /* istanbul ignore file */
 var params$4 = {
@@ -548,7 +538,6 @@ var params$4 = {
     }
 };
 var index$5 = core.useUserFactory(params$4);
-//# sourceMappingURL=index.js.map
 
 var addresses = [
     {
@@ -688,7 +677,6 @@ var params$5 = {
     }); }
 };
 var index$6 = core.useUserBillingFactory(params$5);
-//# sourceMappingURL=index.js.map
 
 /* istanbul ignore file */
 var params$6 = {
@@ -715,7 +703,6 @@ var params$6 = {
     }); }
 };
 var index$7 = core.useUserOrdersFactory(params$6);
-//# sourceMappingURL=index.js.map
 
 var addresses$1 = [
     {
@@ -842,7 +829,6 @@ var params$7 = {
     }); }
 };
 var index$8 = core.useUserShippingFactory(params$7);
-//# sourceMappingURL=index.js.map
 
 var wishlist = compositionApi.ref(null);
 var params$8 = {
@@ -891,7 +877,6 @@ var params$8 = {
     }
 };
 var index$9 = core.useWishlistFactory(params$8);
-//# sourceMappingURL=index.js.map
 
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 var formatAttributeList = function (attributes) {
@@ -927,7 +912,6 @@ var getVariantByAttributes = function (products, attributes) {
         });
     });
 };
-//# sourceMappingURL=_utils.js.map
 
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 var getCartItems = function (cart) {
@@ -1016,7 +1000,6 @@ var cartGetters = {
     getCoupons: getCoupons,
     getDiscounts: getDiscounts
 };
-//# sourceMappingURL=cartGetters.js.map
 
 var itemToTree = function (category) {
     return {
@@ -1036,7 +1019,6 @@ var getCategoryTree = function (category) {
 var categoryGetters = {
     getTree: getCategoryTree
 };
-//# sourceMappingURL=categoryGetters.js.map
 
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 var getShippingMethodId = function (shippingMethod) { return ''; };
@@ -1055,7 +1037,6 @@ var checkoutGetters = {
     getFormattedPrice: getFormattedPrice$1,
     getShippingMethodPrice: getShippingMethodPrice
 };
-//# sourceMappingURL=checkoutGetters.js.map
 
 /* eslint-disable @typescript-eslint/explicit-module-boundary-types */
 var buildBreadcrumbsList = function (rootCat, bc) {
@@ -1101,7 +1082,6 @@ var buildFacets = function (searchData, reduceFn, criteria) {
         .filter(filterFacets(criteria))
         .reduce(reduceFn(facets, filters), []);
 };
-//# sourceMappingURL=_utils.js.map
 
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 var getAll = function (searchData, criteria) { return buildFacets(searchData, reduceForFacets, criteria); };
@@ -1189,7 +1169,6 @@ var facetGetters = {
     getBreadcrumbs: getBreadcrumbs,
     getPagination: getPagination
 };
-//# sourceMappingURL=facetGetters.js.map
 
 // TODO: Add interfaces for some of the methods in core
 // Product
@@ -1356,7 +1335,6 @@ var productGetters = {
     getAverageRating: getProductAverageRating,
     getBreadcrumbs: getBreadcrumbs$1
 };
-//# sourceMappingURL=productGetters.js.map
 
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 var getItems = function (review) { return []; };
@@ -1390,7 +1368,6 @@ var reviewGetters = {
     getRatesCount: getRatesCount,
     getReviewsPage: getReviewsPage
 };
-//# sourceMappingURL=reviewGetters.js.map
 
 /* istanbul ignore file */
 var getUserFirstName = function (user) { return (user === null || user === void 0 ? void 0 : user.firstName) || ''; };
@@ -1403,7 +1380,6 @@ var userGetters = {
     getFullName: getUserFullName,
     getEmailAddress: getUserEmailAddress
 };
-//# sourceMappingURL=userGetters.js.map
 
 var userGetters$1 = {
     getAddresses: function (shipping, criteria) {
@@ -1435,7 +1411,6 @@ var userGetters$1 = {
     getApartmentNumber: function (address) { return address ? address.apartment : ''; },
     isDefault: function (address) { return address ? address.isDefault : false; }
 };
-//# sourceMappingURL=userShippingGetters.js.map
 
 var userGetters$2 = {
     getAddresses: function (billing, criteria) {
@@ -1467,7 +1442,6 @@ var userGetters$2 = {
     getApartmentNumber: function (address) { return address ? address.apartment : ''; },
     isDefault: function (address) { return address ? address.isDefault : false; }
 };
-//# sourceMappingURL=userBillingGetters.js.map
 
 /* eslint-disable @typescript-eslint/explicit-module-boundary-types */
 /* istanbul ignore file */
@@ -1513,7 +1487,6 @@ var orderGetters = {
     getItemId: getItemId,
     getItemSlug: getItemSlug
 };
-//# sourceMappingURL=orderGetters.js.map
 
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 var getWishlistItems = function (wishlist) { return [
@@ -1580,7 +1553,6 @@ var wishlistGetters = {
     getTotalItems: getWishlistTotalItems,
     getFormattedPrice: getFormattedPrice$4
 };
-//# sourceMappingURL=wishlistGetters.js.map
 
 /* istanbul ignore file */
 var integrationPlugin = core.integrationPluginFactory(shopifyApi.createApiClient);

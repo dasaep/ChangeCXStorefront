@@ -6,7 +6,7 @@
     "node": ">=10.x"
   },
   "scripts": {
-    "build": "yarn build:api-client && yarn build:composables && yarn build:theme",
+    "build": "yarn build:api-client && yarn build:composables && yarn build:theme && yarn export",
     "build:api-client": "cd packages/api-client && yarn build",
     "build:composables": "cd packages/composables && yarn build",
     "build:theme": "cd packages/theme && yarn build",

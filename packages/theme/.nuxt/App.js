@@ -8,6 +8,9 @@ import NuxtBuildIndicator from './components/nuxt-build-indicator'
 
 import _65a88512 from '../_theme/layouts/account.vue'
 import _6f6c098b from '../_theme/layouts/default.vue'
+import { Amplify } from "aws-amplify";
+import awsExports from "/packages/aws-exports";
+Amplify.configure({ ...awsExports, ssr: true });
 
 const layouts = { "_account": sanitizeComponent(_65a88512),"_default": sanitizeComponent(_6f6c098b) }
 
